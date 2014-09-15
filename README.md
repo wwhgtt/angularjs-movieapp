@@ -7,7 +7,9 @@ Writen by: Sandeep Panda
 Original site from: http://movieapp-sitepointdemos.rhcloud.com/#/movies
 
 I have used this tutorial to learn AngularJs with GRUD. 
-Made a copy and some modifications. Many thanks for Sandeep Panda \o/
+Made a copy and some modifications. 
+
+''Many thanks `Sandeep Panda` for your tutorial \o/''
 
 
 ## Install 
@@ -28,5 +30,5 @@ Install packages from `packages.json`.
 
 Browse to `http://localhost:3000` 
 
-### Grunt development packages (package.json)
+Try it ;)
 
