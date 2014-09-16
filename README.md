@@ -32,3 +32,10 @@ Browse to `http://localhost:3000`
 
 Try it ;)
 
+## Notes about a rails-api
+
+If you use the rails-api remove the 'underscore' i.o. `@id` in js/services.js`
+
+    return $resource('http://localhost:3000/movies/:id',{id:'@id'},{
+
+https://github.com/andriesfilmer/rails-api
